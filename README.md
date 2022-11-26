@@ -39,7 +39,7 @@ SQL Skills:
 - CASE Statements
 - Transposition
 - Subqueries
-
+***
 ### Findings:
 #####
 The boroughs with the most number of incidents are Brooklyn and Manhattan. 
@@ -49,7 +49,7 @@ The month with the highest number of incidents is August, with another peak in D
 The catgegory with the most number of incidents is EMS/Search&Rescue/Extrication. The incident type with the most recorded incidents is 'Rescue, EMS incident, other'.
 
 For category 'Fire' specifically, the top 5 zip codes with the most incidents are locatied in Staten Island, Bronx, and Brooklyn. The top 5 property types are multi-family dwellings, 1or 2 family dwellings, street, residential street/road, commercial street/road.
-
+***
 ### Tableau Visualization:
 #####
 https://public.tableau.com/app/profile/kathryn.schaller/viz/FDNYIncidentsin2021/FDNY
